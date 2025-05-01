@@ -1,6 +1,6 @@
-# Summary
+# Table of contents
 
-* [Home](README.md)
+* [Solvex ($SOLVEX) GitBook Documentation](README.md)
 * [Introduction](introduction.md)
 * [Why Solvex?](why-solvex.md)
 * [What is Virtual Proof of Solana (VPoS)?](what-is-vpos.md)
